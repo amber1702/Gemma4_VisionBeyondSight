@@ -1,0 +1,9 @@
+depthai-core/
+venv/
+*.gguf
+*.bin
+__pycache__/
+*.pyc
+.cache/
+models/
+piper_models/
